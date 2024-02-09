@@ -1,8 +1,4 @@
-# Weather App in ReactJS
 
-Get API Here:
-
-https://openweathermap.org
 
 ## Commands:
 
